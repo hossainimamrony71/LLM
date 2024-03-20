@@ -1,0 +1,1454 @@
+[
+    {
+        "question": "নিচের কোনটি Anti- Virus Software নয়?",
+        "answer": "",
+        "explanation": "Oracle বাদে বাকিগুলো হচ্ছে Anti- virus সফটওয়্যার। Oracle হচ্ছে ডাটাবেজ ম্যানেজমেন্টের একটি সফটওয়ার।",
+        "options": [
+            "Oracle",
+            "McAfee",
+            "Norton",
+            "Kaspersky"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "RFID বলতে বোঝায় –",
+        "answer": "",
+        "explanation": " Oracle বাদে বাকিগুলো হচ্ছে Anti- virus সফটওয়্যার। Oracle হচ্ছে ডাটাবেজ ম্যানেজমেন্টের একটি সফটওয়ার।",
+        "options": [
+            "Random Frequency Identification",
+            "Random Frequency Information",
+            "Radio Frequency Information",
+            "Radio Frequency Identification"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কোন মাধ্যমে আলোর পালস ব্যবহৃত হয়?",
+        "answer": "",
+        "explanation": "অপটিক্যাল ফাইবার এক রকমের যোগাযোগ মাধ্যম, এতে সিগন্যাল বা ডাটা আলোর মাধ্যমে একস্থান থেকে অন্য স্থানে প্রেরণ করা হয়।",
+        "options": [
+            "তামার তার",
+            "কো-অক্সিয়াল ক্যাবল",
+            "অপটিক্যাল ফাইবার",
+            "ওয়্যারলেস মিডিয়া"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কোন চিহ্নটি ই-মেইল ঠিকানায় অবশ্যই থাকবে?",
+        "answer": "",
+        "explanation": " কম্পিউটার নেটওয়ার্কিং প্রক্রিয়ায় বিভিন্ন ধরনের তথ্যাবলী আদান- প্রদানের প্রক্রিয়াকেই ই-মেইল বলে। ই-মেইল ঠিকানায় অবশ্যই @ থাকতে হবে। উদাহরণ- 10minuteschool.@gmail.com",
+        "options": [
+            "$",
+            "#",
+            "&amp;",
+            "@"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোনটি output device নয়?",
+        "answer": "",
+        "explanation": " মাইক্রোফোন শব্দ রেকর্ডিং এর জন্য ব্যবহৃত একটি ইনপুট ডিভাইস। একে মাইকও বলা হয়।",
+        "options": [
+            "monitor",
+            "microphone",
+            "printer",
+            "speaker"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোনটি একটি প্রতিষ্ঠানের ওয়েব ঠিকানাকে নির্দেশ করে?",
+        "answer": "",
+        "explanation": "ওয়ার্ল্ড ওয়াইড ওয়েবকে সংক্ষপে ওয়েবও বলা হয়। ওয়েব এমন একটি বৃহৎ সিস্টেম যা অনেকগুলো সার্ভার সংযুক্তির মাধ্যমে গঠিত হয়।",
+        "options": [
+            "http",
+            "www",
+            "URL",
+            "HTML"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোন প্রযুক্তি Pay as You Go সার্ভিস মডেল অনুসরণ করে?",
+        "answer": "",
+        "explanation": " ক্লাউড কম্পিউটিং হলো এমন এক প্রকার সাবস্ক্রিপশন ভিত্তিক পরিসেবা, যা নেটওয়ার্ক স্টোরেজ স্পেস এবং কম্পিউটারের বিভিন্ন যন্ত্রাংশের দ্রুত ও সুবিধাজনক ব্যবহার নিশ্চিত করে।",
+        "options": [
+            "Internet of Things (IoT)",
+            "Cloud Computing",
+            "Client-Server Systems",
+            "Big Data Analysis"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Keyboard এবং CPU-এর মধ্যে কোন পদ্ধতিতে data transmission হয়?",
+        "answer": "",
+        "explanation": "সিমপ্লেক্স ডেটা ট্রান্সমিশন মোডে, যোগাযোগটি একমুখী হয়, অর্থাত্‍ এক দিকে ডেটা প্রবাহিত হয়। কীবোর্ড থেকে কম্পিউটারে ডেটা প্রেরণ সিমপ্লেক্স চ্যানেলের মাধ্যমে সম্পন্ন করা হয়।",
+        "options": [
+            "Simplex",
+            "Duplex",
+            "Half duplex",
+            "Triplex"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Blockchain এর প্রতিটি block কী তথ্য বহন করে?",
+        "answer": "",
+        "explanation": " প্রতিটি ব্লকে রয়েছে তার ঠিক আগের ব্লকের একটি ক্রিপ্টোগ্রাফিক হ্যাশ, একটি টাইমস্ট্যাম্প এবং লেনদেনের তথ্য।",
+        "options": [
+            "A hash pointer to the previous block",
+            "Timestamp",
+            "List of transactions",
+            "উপরের সবগুলো"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোনটি Open Source DBMS?",
+        "answer": "",
+        "explanation": "ওপেন সোর্স সফটওয়্যার হল এক ধরনের সফটওয়্যার যার সোর্স কোড সম্পূর্ণ উন্মুক্ত। MySQL একটি ওপেন সোর্স DBMS।",
+        "options": [
+            "MySQL",
+            "Microsoft SQL Server",
+            "Microsoft Access",
+            "Oracle"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের Job Scheduling Policy-এর মধ্যে কোনটি Starvation থেকে মুক্ত?",
+        "answer": "",
+        "explanation": " Job Scheduling Policy-এর মধ্যে Round-robin, Starvation থেকে মুক্ত.",
+        "options": [
+            "Priority Scheduling",
+            "Shortest Job First",
+            "Youngest Job First",
+            "Round-robin"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোন প্রযুক্তি Face Recognition System- এর সহায়ক ভুমিকা পালন করে?",
+        "answer": "",
+        "explanation": " ফেস রিকগনিশন পদ্ধতি হলো ছবিতে মানুষের মুখ শনাক্ত করার একটি প্রদ্ধতি যেখানে কম্পিউটার ভিশন এর ব্যবহার করা হয়। এক্ষেত্রে Applied Artificial Intelligence (AAI) সহায়ক ভূমিকা পালন করে।",
+        "options": [
+            "Applied Artificial Intelligence (AAI)",
+            "Applied Internet of Things",
+            "Virtual Reality",
+            "উপরেের কোনটিই নয়"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "যে সাইবার আক্রমণ সংঘটিত হলে গ্রাহকের বৈধ অনুরোধসমূহ কোন একটি web server সম্পূর্ণ করতে ব্যর্থ হয় সেটি কী নামে পরিচিত?",
+        "answer": "",
+        "explanation": " Denial of Service একটি সাইবার-আক্রমণ যা একটি কম্পিউটার সিস্টেম আক্রমণ করে শুরু হয় এবং ধীরে ধীরে একটি সার্ভার, ওয়েবসাইট বা অন্যান্য নেটওয়ার্কগুলিতে আক্রমণ করার জন্য অন্যান্য দুর্বল কম্পিউটারগুলির উপর নিয়ন্ত্রণ অর্জন করে।",
+        "options": [
+            "Phising",
+            "Man-in-the-Middle",
+            "Denial of Service",
+            "উপরেের কোনটিই নয়"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোন মেমোরিতে Access Time সবচেয়ে কম?",
+        "answer": "",
+        "explanation": "কাজের দ্রুততা আনয়নের জন্য প্রসেসর ও প্রধান মেমোরির অন্তর্বর্তী স্থানে স্থাপিত বিশেষ ধরনের মেমোরিকে ক্যাশ মেমোরি বলে যার সংযোগ সময় খুব কম।",
+        "options": [
+            "Registers",
+            "SSD",
+            "RAM",
+            "Cache Memory"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোনটি Bluetooth-এর IEEE Standard?",
+        "answer": "",
+        "explanation": "ব্লুটুথ হচ্ছে একটি ওয়্যারলেস প্রযুক্তি যার মাধ্যমে একটি ওয়্যারলেস পার্সোনাল এরিয়া নেটওয়ার্ক তৈরি করা যায় যার IEEE 802.15।",
+        "options": [
+            "IEEE 802.15",
+            "IEEE 802.1",
+            "IEEE 802.3",
+            "IEEE 802.11"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "DNS সার্ভারের কাজ হচ্ছে ——— কে——-address এ পরিবর্তন করা",
+        "answer": "",
+        "explanation": " ইন্টারনেটে প্রতিটি ডিভাইসে একটি আইপি ঠিকানা দেওয়া হয় এবং উপযুক্ত ইন্টারনেট ডিভাইসটি সন্ধানের জন্য সেই ঠিকানাটি প্রয়োজনীয়। যখন কোন ব্যবহারকারী কোন ওয়েবপৃষ্ঠা লোড করতে চান, তখন ডিএনএস হোস্টনাম এর পরিবর্তে একটি আইপি ঠিকানা দেয়া হয়, যার প্রেক্ষিতে ইন্টারনেট বাবহারকারি নির্দিষ্ট সাইটে পৌঁছাতে পারে",
+        "options": [
+            "Email, DNS",
+            "MAC Address, IP",
+            "Domain Name, IP",
+            "Email, IP"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোন ডিভাইসটি ডিজিটাল সিগন্যালকে অ্যানালগ সিগন্যালে পরিবর্তনে ব্যবহৃত হয়?",
+        "answer": "",
+        "explanation": "মডেম হলো এক ধরনের হার্ডওয়ার নেটওয়ার্ক ডিভাইস যা একটি কম্পিউটার স্যাটেলাইট বা টেলিফোন লাইনে ডেটা ট্রান্সমিশন এর কাজ করে। ডিজিটাল থেকে অ্যানালগ সিগনালে রূপান্তরিত হওয়ার প্রক্রিয়াকে মড্যুলেশন বলে এবং এই সম্পূর্ণ কাজটি করে মডেম।",
+        "options": [
+            "Router",
+            "Switch",
+            "Modem",
+            "HUB"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের কোনটি multi-tasking operation system নয়?",
+        "answer": "",
+        "explanation": " DOS হলো এমন ধরনের অপারেটিং সিস্টেমে একই সময়ে শুধুমাত্র একজন ব্যক্তি কাজ করতে পারে।",
+        "options": [
+            "WIndows",
+            "Linux",
+            "Windows NT",
+            "DOS"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কেন্তমের কোন দুটি শাখা এশিয়ার অন্তর্গত?",
+        "answer": "",
+        "explanation": " ইন্দো-ইয়োরোপীয় ভাষা বংশের শাখা দুইটি। যথা: কেন্তম ও শতম। তামিল, দ্রাবিড়, আর্য, অনার্য, মাগধী ও গৌড়ী শতম শাখার অন্তর্ভুক্ত।",
+        "options": [
+            "হিত্তিক ও তুখারিফ",
+            "তামিল ও দ্রাবিড়",
+            "আর্য ও অনার্য",
+            "মাগধী ও গৌড়ী"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "রুখের তেন্তলি কুমীরে খাই- এর অর্থ কি?",
+        "answer": "",
+        "explanation": "চর্যাপদের মহিলা কবি কুকুরীপা কর্তৃক রচিত ২ নং পদ “দুলি দুহি পিটা ধরণ ন জাই। রুখের তেগুলি কুম্ভীরে খাঅ॥” এর বাংলা অর্থ হলো: কচ্ছপকে দোহন করা দুগ্ধ পাত্রে ধরে না। গাছের তেঁতুল কুমিরে খায়৷",
+        "options": [
+            "তেজি কুমিরকে রুখে দিই",
+            "বৃক্ষের শাখায় পাকা তেতুল",
+            "গাছের তেতুল কুমিরে খাই",
+            "ভুল থেকে শিক্ষা নিতে হবে"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "মনসা দেবীকে নিয়ে বিজয়গুপ্তের মঙ্গলকাব্যের নাম কি?",
+        "answer": "",
+        "explanation": " বিজয়গুপ্তের পদ্মাপুরাণ একটি জনপ্রিয় কাব্য। বিজয়গুপ্তের পূর্বে আমরা পাই আদি মঙ্গল কবি কানাহরি দত্ত ও বিপ্রদাস পিপলাইকে।",
+        "options": [
+            "মনসামঙ্গল’",
+            "মনসাবিজয়’",
+            "পদ্মপুরাণ’",
+            "পদ্মাবতী’"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "দৌলত উজির বাহরাম খান সাহিত্য সৃষ্টিতে কার পৃষ্ঠপোষকতা লাভ করেন?",
+        "answer": "",
+        "explanation": " দৌলত উজির বাহরাম খান নিজাম শাহের পৃষ্ঠপোষকতায় পারসিয়ান কবি জামির আরবি লোকগাথা পায় থেকে বাংলায় ‘লায়লী-মজনু’ অনুবাদ করেন। তাঁর প্রকৃত নাম বাহরাম খান। জমিদার নিজাম শাহ তাকে দৌলান করেন। গৌড়ের সুলতান গিয়াসউদ্দিন আহাম শাহের পৃষ্ঠপোষকতায় শাহ মুহম্মদ সগীর ‘ইউসুফ-জোলেখা রচনা করেন। করুনউদ্দিন বরবক শাহের পৃষ্ঠপোষকতায় মালাধর বসু ‘শ্রীকৃষ্ণবিজয়’ কাব্য রচনা করেন। কোরেশী মাগন ঠাকুরের উৎসাহে আলাওল ‘পদ্মাবতী’ কাবা রচনা করেন।",
+        "options": [
+            "সুলতান গিয়াসউদ্দিন আজম শাহ",
+            "কোরশী মাগন ঠাকুর",
+            "সুলতান বরবক শাহ",
+            "জমিদার নিজাম শাহ"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "চর্যাপদের প্রাপ্তিস্থান কোথায়?",
+        "answer": "",
+        "explanation": " ১৯০৭ সালে মহামহোপাধ্যায় হরপ্রসাদ শাস্ত্রী নেপালের রাজগ্রন্হাগার হতে চর্যাপদ আবিষ্কার করেন।",
+        "options": [
+            "বাংলাদেশ",
+            "নেপাল",
+            "উড়িষ্যা",
+            "ভুটান"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "ঈশ্বরচন্দ্র বিদ্যাসাগর কোথায় জন্মগ্রহণ করেন?",
+        "answer": "",
+        "explanation": "২৬ সেপ্টেম্বর ১৮২০ মোদিনী পুরের বীরসিংহ গ্রামে ইশ্বরচন্দ্র বিদ্যাসাগর জন্মগ্রহণ করেন।",
+        "options": [
+            "চৌবেরিয়া গ্রাম, নদীয়া",
+            "কাঁঠালপাড়া গ্রাম, চব্বিশ পরগণা",
+            "বীরসিংহ গ্রাম, মোদীনিপুর",
+            "দেবানন্দপুর গ্রাম, হুগলী"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“তোমারেই যেন ভালবাসিয়াছি শত রূপে শত বার/ জনমে জনমে যুগে যুগে অনিবার।”- রবীন্দ্রনাথ ঠাকুরের কোন কবিতার অংশ?",
+        "answer": "",
+        "explanation": " “তোমারেই যেন ভালোবাসিয়াছি. শত রূপে শত বার. জনমে জনমে, যুগে যুগে অনিবার।” কাব্যাংশটি রবীন্দ্রনাথ ঠাকুরের মানসী কাব্যগ্রন্থের অনন্ত প্রেম কবিতার অংশ।",
+        "options": [
+            "অনন্ত প্রেম",
+            "উপহার",
+            "ব্যক্ত প্রেম",
+            "শেষ উপহার"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "হরপ্রসাদ শাস্ত্রীর উপাধি কি?",
+        "answer": "",
+        "explanation": " ১৮৯৮ সালে হরপ্রসাদ শাস্ত্রী মহামহোপাধ্যায় উপাধি লাভ করেন। তিনি ঢাকা বিশ্ববিদ্যালয়ের প্রতিষ্ঠা কালীন বাংলা বিভাগীয় প্রধান এবং চর্যাপদ আবিষ্কারক।",
+        "options": [
+            "পন্ডিত",
+            "বিদ্যাসাগর",
+            "শাস্ত্রজ্ঞ",
+            "শেষ উপহার"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“ঐ ক্ষেপেছে পাগলা মায়ের দামাল ছেলে”- কে এই দামাল ছেলে?",
+        "answer": "",
+        "explanation": " কাজী নজরুল ইসলামের অগ্নিবীণা কাব্যগ্রন্থের কামাল পাশা কবিতার চরণ, ঐ ক্ষেপেছে পাগলী মায়ের দামাল ছেলে কামাল ভাই।",
+        "options": [
+            "কাজী নজরুল ইসলাম",
+            "কামাল পাশা",
+            "চিত্তরঞ্জন দাস",
+            "সুভাস বসু"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "সজনীকান্ত দাস সম্পাদিত পত্রিকার নাম কি?",
+        "answer": "",
+        "explanation": " সজনীকান্ত দাস বিংশ শতাব্দীর প্রথম ভাগের বাংলা সাহিত্য আন্দোলনের অন্যতম প্রধান ব্যক্তিত্ব। শনিবারের চিঠি পত্রিকার সম্পাদক হিসেবে তার প্রধান পরিচিতি।",
+        "options": [
+            "শনিবারের চিঠি",
+            "রবিবারের ডাক",
+            "বিজলি",
+            "বঙ্গদর্শন"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "মানুষের মৃত্যু হলে তবুও মানব থেকে যায়”-কে রচনা করেন এই কাব্যাংশ?",
+        "answer": "",
+        "explanation": "প্রথমত চেতনার পরিমাপ নিতে আসে। – জীবনানন্দ দাসের মানুষেন মৃত্যু হলে কবিতার অংশ এটি।”",
+        "options": [
+            "সুধীন্দ্রনাথ দত্ত",
+            "প্রেমেন্দ্র মিত্র",
+            "সমর সেন",
+            "জীবনানন্দ দাশ"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কোনটি মুক্তিযুদ্ধ ভিত্তিক উপন্যাস?",
+        "answer": "",
+        "explanation": " শওকত ওসমানের নেকড়ে অরণ্য ‘ উপন্যাসটি বাংলাদেশের মুক্তিযুদ্ধের পটভূমিতে রচিত।",
+        "options": [
+            "কাদো নদী কাঁদো",
+            "নেকড়ে অরণ্য",
+            "রাঙা প্রভাত",
+            "প্রদোষে প্রাকৃতজন"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“মুখ ঢেকে যায় বিজ্ঞাপনে” – কাব্যগ্রন্থের কবি কে?",
+        "answer": "",
+        "explanation": "মুখ ঢেকে যায় বিজ্ঞাপনে। – শঙ্খ ঘোষের কাব্য”",
+        "options": [
+            "রফিক আজাদ",
+            "শঙ্খ ঘোষ",
+            "শক্তি চট্টোপাধ্যায়",
+            "শামসুর রাহমান"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "ক্ষুদ্র জাতিগোষ্ঠী নিয়ে লেখা উপন্যাস কোনটি?",
+        "answer": "",
+        "explanation": " কর্ণফুলী আলাউদ্দিন আল আজাদ রচিত একটি উপন্যাস । এটি ১৯৬২ সালে প্রকাশিত হয়।",
+        "options": [
+            "তেইশ নম্বর তৈলচিত্র",
+            "ক্ষুধা ও আশা",
+            "কর্ণফুলি",
+            "ধানকন্যা"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নীল লোহিত কোন লেখকের ছন্মদাম?",
+        "answer": "",
+        "explanation": " সুনীল গঙ্গোপাধ্যায়ের নীল লোহিত ছদ্মনামে লিখতেন। সমরেশ বসুর ছদ্মনাম ছিল কালকূট",
+        "options": [
+            "অরুণ মিত্র",
+            "সমরেশ বসু",
+            "সুনীল গঙ্গোপাধ্যায়",
+            "সমরেশ মজুমদার"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“মুসলিম সাহিত্য সমাজ” প্রতিষ্ঠিত হয়-",
+        "answer": "",
+        "explanation": " মুসলিম সাহিত্য সমাজ ছিল বাংলাদেশের একটি ‘বুদ্ধির মুক্তি’ আন্দোলনের দল বা সংগঠন। ড. মুহম্মদ শহীদুল্লাহর সভাপতিত্বে ১৯২৬ সালের ১৯ জানুয়ারি ঢাকা বিশ্ববিদ্যালয়ের মুসলিম হল ইউনিয়ন কক্ষে মুসলিম সাহিত্য সমাজ প্রতিষ্ঠিত হয়।",
+        "options": [
+            "১৯ জানুয়ারি ১৯২৬",
+            "১৯ ফেব্রুয়ারী ১৯২৬",
+            "১৯ মার্চ ১৯২৬",
+            "২৬ মার্চ ১৯২৭"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কত সালে দুর্গেশনন্দিনী উপন্যাস প্রথম প্রকাশিত হয়?",
+        "answer": "",
+        "explanation": " বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের উপন্যাস দুর্গেশনন্দিনী ১৯৬৫ সালে প্রকাশ হয়। যা বাংলা সাহিত্যের প্রথম সার্থক উপন্যাস।",
+        "options": [
+            "1960",
+            "1961",
+            "1965",
+            "1967"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "বাংলা সাহিত্যে প্রথম মহিলা ঔপন্যাসিকের নাম কি?",
+        "answer": "",
+        "explanation": " স্বর্ণকুমারী দেবী (২৮ আগস্ট, ১৮৫৫ – ৩ জুলাই, ১৯৩২) একজন বাঙালি কবি, ঔপন্যাসিক, সংগীতকার ও সমাজ সংস্কারক। তিনিই ছিলেন আধুনিক বাংলা সাহিত্যের প্রথম উল্লেখযোগ্য মহিলা সাহিত্যিক।",
+        "options": [
+            "বেগম রোকেয়া",
+            "কাদম্বরী দেবী",
+            "স্বর্ণকুমারী দেবী",
+            "নুরুন্নাহার ফয়জুন্নেসা"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“আমার দেখা নয়াচীন” কে লিখেছেন?",
+        "answer": "",
+        "explanation": " বঙ্গবন্ধু শেখ মুজিবুর রহমান রচিত গ্রন্থ আমার দেখা নয়াচীন। তার আরো দুটি গ্রন্থ হল অসমাপ্ত আত্মজীবনী এবং কারাগারের রোজনামচা।",
+        "options": [
+            "মাওলানা ভাসানী",
+            "আবুল ফজল",
+            "শহীদুল্লা কায়সার",
+            "শেখ মুজিবুর রহমান"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“আমার দেখা রাজনীতির পঞ্চাশ বছর” কার লেখা?",
+        "answer": "",
+        "explanation": " আবুল মনসুর আহমেদের আত্মজীবনী মূলক রাজনৈতিক বই। যেটিতে যুক্তফ্রন্ট মন্ত্রিসভায় তার অবস্থান সহ তৎকালীন রাজনীতির অনেক গুরুত্বপূর্ণ বিষয় উঠে এসেছে।",
+        "options": [
+            "এস, ওয়াজেদ আলী",
+            "আবুল হাশেম",
+            "আবুল মনসুর আহমেদ",
+            "আবুল হুসেন"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“আসমান” কোন ভাষা থেকে আগত শব্দ?",
+        "answer": "",
+        "explanation": " “আন্দাজ, আওয়াজ, আফসোস, আবহাওয়া, অজুহাত, আবাদ, আমদানি, আমেজ, আয়না, আরাম, আসমান, আস্তানা, আশকারা, ইয়ার, ওস্তাদ, কামাই, কারখানা, কারবার, কারিগর, কিনারা, কিশমিশ, কুস্তি, কোমর, খরচ, খঞ্জর, খরগোশ, খুব, কম, বেশি, জোড়, তোপ, চশমা, মোকদ্দমা, মালিক, সিপাহী, খোদা, দরিয়া, খাতা, গোলাপ, রোজ, গোয়েন্দা, চাকরি, চাঁদা, চাকর, চালাক, চেহারা, জবাব, দরজা, তীর (বাণ), তৈয়ার, দারোয়ান, বস্তা, বাজি, মজুর, ময়দা, মোরগ, মাহিনা, মিহি, মেথর, রপ্তানি, রাস্তা, রুমাল, রেশম, লাশ, শহর, শায়েস্তা, শিরনামা, সওদা, সবজি, সবুজ, সরকার, সর্দি, সাজা, সাদা, সানাই, সে (তিন), হপ্তা, হাজার, হিন্দু, হাঙ্গামা ইত্যাদি ফারসি শব্দের উদাহরণ। “",
+        "options": [
+            "পর্তুগিজ",
+            "ফরাসি",
+            "আরবি",
+            "ফারসি"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিম্নবিবৃত স্বরধ্বনি কোনটি?",
+        "answer": "",
+        "explanation": " আ ধ্বনিটি উচ্চারণের সময় জিহ্বার অবস্থান হয় সব থেকে নিম্নে হয়। তাই নিম্ন বিবৃত স্বরধ্বনি বলে।",
+        "options": [
+            "আ",
+            "ই",
+            "এ",
+            "অ্যা"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "জিজীবিষা শব্দটির অর্থ কি?",
+        "answer": "",
+        "explanation": " জিজীবিষা শব্দটির অর্থ বেচে থাকার ইচ্ছা।",
+        "options": [
+            "জীবননাশের ইচ্ছা",
+            "বেঁচে থাকার ইচ্ছা",
+            "জীবনকে জানার ইচ্ছা",
+            "জীবন-জীবিকার পথ"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "বড়gt;বড্ড- এটি কোন ধরনের পরিবর্তন?",
+        "answer": "",
+        "explanation": "অপটিক্যাল ফাইবার এক রকমের যোগাযোগ মাধ্যম, এতে সিগন্যাল বা ডাটা আলোর মাধ্যমে একস্থান থেকে অন্য স্থানে প্রেরণ করা হয়।",
+        "options": [
+            "বিষমীভবন",
+            "সমীভবন",
+            "ব্যাঞ্জনদ্বিত্ত্ব",
+            "ব্যাঞ্জন-বিকৃতি"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“সপ্তকাণ্ড রামায়ন” বাগধারার অর্থ কি?",
+        "answer": "",
+        "explanation": " বাল্মিকী রচিত রামায়ন ২৪ হাজার শ্লোকের বিশাল বড় মহাকাব্য। এটি সাতটি বৃহৎ কান্ড বা ঘটনায় বিভক্ত। এজন্য বৃহৎ বিষয় বোঝাতে সপ্তকান্ড রামায়ন বলা হয়।",
+        "options": [
+            "রামায়নের সাত পর্ব",
+            "রামায়ণে বর্ণিত বৃক্ষ",
+            "রামায়ণে বর্ণিত সাতটি সমুদ্র",
+            "বৃহৎ বিষয়"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“Attested” শব্দের বাংলা পরিভাষা কি?",
+        "answer": "",
+        "explanation": " “Attested” পারিভাষিক শব্দটি সত্যায়িত অর্থে ব্যবহার করা হয়।",
+        "options": [
+            "প্রত্যায়িত",
+            "সত্যায়িত",
+            "প্রত্যয়িত",
+            "সত্যয়িত"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“ডেকে ডেকে হয়রান হচ্ছি।” – এ বাক্যে ডেকে ডেকে কোন অর্থ প্রকাশ করে?",
+        "answer": "",
+        "explanation": " ডেকে ডেকে হয়রান হচ্ছি- বাক্যে বারবার ডাকা অর্থাৎ পৌনঃপুনিকতার ইঙ্গিত দেওয়া হয়েছে।",
+        "options": [
+            "অসহায়ত্ব",
+            "বিরক্তি",
+            "কালের বিস্তার",
+            "পৌনঃপুনিকতা"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "ভুল বানান কোনটি?",
+        "answer": "",
+        "explanation": " শুদ্ধ বানান ভুবন। বাকীগুলো শুদ্ধ",
+        "options": [
+            "ভূবন",
+            "অন্তঃসার",
+            "মুহূর্ত",
+            "অদ্ভুত"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“যিনি বিদ্বান, তিনি সর্বত্র আদরণীয়। -এটি কোন ধরনের বাক্য?",
+        "answer": "",
+        "explanation": "পরস্পর নিরপেক্ষ দুই বা ততোধিক সরল বা মিশ্র বাক্য মিলিত হয়ে একটি সম্পূর্ণ বাক্য গঠন করলে তাকে যৌগিক বাক্য বলে। ‘যিনি বিদ্বান, তিনি সর্বত্র আদরণীয় ।’ এটি জটিল বাক্য।",
+        "options": [
+            "সরল বাক্য",
+            "জটিল বাক্য",
+            "যৌগিক বাক্য",
+            "খন্ড বাক্য"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কোনটি নামধাতুর উদাহরণ?",
+        "answer": "",
+        "explanation": " বিশেষ্য, বিশেষণ এবং অনুকার অব্যয়ের পরে ‘আ’ প্রত্যয় যোগ করে যে নতুন ধাতুটি গঠিত হয়, তাই নাম ধাতু যেমন: বেতা",
+        "options": [
+            "চল্",
+            "কর",
+            "বেতা",
+            "পড়"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“তাতে সমাজজীবন চলে না।”- এ বাক্যটির অস্তিবাচক রূপ কোনটি?",
+        "answer": "",
+        "explanation": " নেতিবাচক বাক্যকে অস্তিবাচক বাক্যে রূপান্তর করতে হলে বাক্যের মূল অর্থ অপরিবর্তিত রেখে না, নি, নেই , ইত্যাদি অব্যয় উঠিয়ে দিতে হয়। শব্দের পরিবর্তন ঘটিয়ে বাকো হাঁ-সূচক ভাব ফুটিয়ে তুলতে হয়। প্রদত্ত বাক্যঃ তাতে সমাজজীবন চলে না (নেতিবাচক)। তাতে সমাজজীবন অচল হয়ে পড়ে (অস্তিবাচক)।",
+        "options": [
+            "তাতে সমাজজীবন চলে",
+            "তাতে না সমাজজীবন চলে",
+            "তাতে সমাজজীবন অচল হয়ে পড়ে।",
+            "তাতে সমাজজীবন সচল হয়ে পড়ে।"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“গড্ডালিকা প্রবাহ” বাগধারায় “গড্ডল” শব্দের অর্থ কি?",
+        "answer": "",
+        "explanation": " বাগধারাটির অর্থ অন্ধ অনুকরন। ‘গল্’ শব্দের অর্থ ভেড়া। সাধারণত ভেড়া অনুকরণপ্রিয় প্রাণী। এদের একজন যেদিকে যায়, অন্যগুলোও বাছবিচার না করে সেদিকেই যায়। এজন্য গড্ডালিকা প্রবাহ দিয়ে অন্ধ অনুকরণ বোঝানো হয়।",
+        "options": [
+            "স্রোত",
+            "ভেড়া",
+            "একত্র",
+            "ভাসা"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "বাকযন্ত্র অংশ নয় কোনটি?",
+        "answer": "",
+        "explanation": " আলভিত, অধিজিহ্বা, কোমল তালু, শক্ত তালু, ৬ষ্ঠ, নাসারন্ধ, নাসিকা শহর, মুখ, নিচের চোয়াল, গলবিনীয় হার, যন্ত্র, খাদ্যনালী, শ্বাসনালী, ফুসফুস এগুলো বাকযন্ত্রের অংশ",
+        "options": [
+            "স্বরযন্ত্র",
+            "ফুসফুস",
+            "দাঁত",
+            "উপরের সবকটি"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "রবীন্দ্রনাথ ঠাকুর কোন কারক বাদ দিতে চেয়েছিলেন?",
+        "answer": "",
+        "explanation": " বাঙালা ব্যাকরণ’ প্রবন্ধে রবীন্দ্রনাথ ঠাকুর রাজা রামমোহন রায়, হরপ্রসাদ শাস্ত্রী, রামেন্দ্র সুন্দর ত্রিবেদী প্রমুখ পণ্ডিতবর্গ সম্প্রদান কারককে বাদ নিতে চেয়েছেন। কারণ, কর্মকারক দ্বারাই সম্প্রদান কারকের কাজ সম্পাদন করা যায়।",
+        "options": [
+            "করণ কারক",
+            "সম্প্রদান কারক",
+            "অপাদান কারক",
+            "অধিকরণ কারক"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "The phrase sine die means",
+        "answer": "",
+        "explanation": "Sine die’ এর মাধ্যমে কোনো ব্যাপারে অনিশ্চিত থাকাকে বোঝায়।",
+        "options": [
+            "Doubtfully",
+            "Half-Heartedly",
+            "Fixed",
+            "Uncertain"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Fill in the gap: Birds fly — in the sky",
+        "answer": "",
+        "explanation": "At large ব্যাবহার করে বেশিরভাগ সময় ঘটে এমন কোনো ঘটনার উল্লেখ করা হয়",
+        "options": [
+            "random",
+            "at large",
+            "at a stitch",
+            "are long"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Who is the author of Jane Eyre”?",
+        "answer": "",
+        "explanation": "Jane Eyre ১৮৪৭ সালে প্রকাশিত, Charlotte Bronte র লেখা একটি উপন্যাস",
+        "options": [
+            "Charlotte Bronte",
+            "Emily Bronte",
+            "Jane Austin",
+            "Mary Shelly"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "The most famous romantic poet of English literature is-",
+        "answer": "",
+        "explanation": " William Worldsworth ইংরেজি সাহিত্যে সবচেয়ে জনপ্রিয় romantic poet",
+        "options": [
+            "John Dryden",
+            "Alexander Pope",
+            "William Wordsworth",
+            "T.S Eliot"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Identify the correct synonym for the word magnanimous.",
+        "answer": "",
+        "explanation": " Magnanimous শব্দটির অর্থ দয়ালু। এর সবচেয়ে সঠিক synonym generous",
+        "options": [
+            "Unkind",
+            "Generous",
+            "Revengeful",
+            "Friendly"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Which gender is the word orphan?",
+        "answer": "",
+        "explanation": "Orphan বা এতিম শব্দটি যেকোনো gender এর ক্ষেত্রে ব্যাবহার করা যায়।",
+        "options": [
+            "Neuter",
+            "Faminine",
+            "Common",
+            "Masculine"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Who wrote the play The Way of the Word?",
+        "answer": "",
+        "explanation": "The way of the word William Congreve এর লেখা ১৭০০ সালের প্রথমদিকে প্রকাশিত একটি নাটক",
+        "options": [
+            "William Shakespeare",
+            "William Congreve",
+            "Ben Jonson",
+            "Oscer Wilde"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“Better to reign in Hell, than serve in Heavn.” Who wrote this?",
+        "answer": "",
+        "explanation": "John Milton তার Paradise lost বইতে এই উক্তিটি লেখেন।",
+        "options": [
+            "Geoffrey Chaucer",
+            "Christopher Marlowe",
+            "John Milton",
+            "P.B Shelly"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Who is not an Irish writer?",
+        "answer": "",
+        "explanation": " D.H Lawrence একজন ইংরেজ লেখক এবং কবি",
+        "options": [
+            "Oscer Wilde",
+            "James Joyce",
+            "Jonathan Swift",
+            "D.H. Lawrence"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "A “herd” of cattle is passing. The underlined word is a/an",
+        "answer": "",
+        "explanation": " Cattle শব্দটি গরু বা ভেড়াল পাল বোঝাচ্ছে",
+        "options": [
+            "Adverb",
+            "Adjective",
+            "Collective Noun",
+            "Absrtact Noun"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "What is the adjective form of the word people”?",
+        "answer": "",
+        "explanation": "populous শব্দটি people এর adjective form এবং এর দ্বারা কোথাও অনেক জনসমাগম থাকাকে বোঝায়।",
+        "options": [
+            "populous",
+            "populer",
+            "popularity",
+            "popularize"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "A speech full of too many words is",
+        "answer": "",
+        "explanation": "প্রয়োজনের বেশি শব্দ ব্যাবহার করা হয় যে speech এ, সেটাই verbose speech.",
+        "options": [
+            "A big speech",
+            "Maiden speech",
+            "a verbose speech",
+            "An unimportant speech"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Who is the poet of the poem Ozymandias”?",
+        "answer": "",
+        "explanation": " Ozymandias, P.B Shelley র লেখা একটি Sonnet",
+        "options": [
+            "P.B Shelley",
+            "William Wordsworth",
+            "S. T Coleridge",
+            "John Keats"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“Moby Dick, a novel, was written by-",
+        "answer": "",
+        "explanation": " Moby dick অথবা The Whale, Herman Melville এর লেখা উপন্যাস",
+        "options": [
+            "Herman Melville",
+            "Nathaniel Hawthorn",
+            "Mark Twain",
+            "William Faulkner"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "“If Winter comes, can Spring be far behind?”-Who wrote this?",
+        "answer": "",
+        "explanation": " উক্তিটি P.B Shelley র লেখা Ode to the west wind কবিতার অংশ",
+        "options": [
+            "William Blake",
+            "S. T Coleridge",
+            "Lord Byron",
+            "P.B Shelley"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "O Henry was from –",
+        "answer": "",
+        "explanation": "O. Henry একজন আমেরিকান ছোটগল্পকার",
+        "options": [
+            "Canada",
+            "America",
+            "England",
+            "Ireland"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "He contemplated marrying his cousin. Here marrying is a/an",
+        "answer": "",
+        "explanation": "Marrying এখানে gerund কারন এটি একই সাথে Noun এবং Verb হিসেবে কাজ করছে",
+        "options": [
+            "Present Participle",
+            "Gerund",
+            "Verb",
+            "Infinitive"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "No Second Troy is a –",
+        "answer": "",
+        "explanation": " No second troy, William Butler Yeats এর লেখা একটি কবিতা",
+        "options": [
+            "Short story",
+            "Novel",
+            "Drama",
+            "Poem"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Who is not a modern poet?",
+        "answer": "",
+        "explanation": "John keats একমাত্র ১৮৯০-১৯৫০ এর মধ্যে কবিতা লিখতেন না",
+        "options": [
+            "W.B Yeats",
+            "W.H Auden",
+            "John Keats",
+            "T.S Eliot"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Who is the author of the novel The God of Small Things?",
+        "answer": "",
+        "explanation": "Arundhati Roy, ১৯৯৭ সালে বইটি প্রকাশ করে",
+        "options": [
+            "Thomas Hardy",
+            "Jhumpa Lahiri",
+            "R.K. Narayan",
+            "Arundhati Roy"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Which of the following novels is not written by an English writer?",
+        "answer": "",
+        "explanation": " এই বইটি কলাম্বিয়ান লেখক গ্যাব্রিয়াল গারসিয়ার লেখা",
+        "options": [
+            "A Passage to india",
+            "Sons and lovers",
+            "One Hundred Years of Solitude.",
+            "Pride and Prejudice"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Where is the setting of the play Hamlet?",
+        "answer": "",
+        "explanation": " হ্যামলেট এর গল্পটি ডেনমার্কে স্থাপিত",
+        "options": [
+            "England",
+            "Italy",
+            "France",
+            "Denmark"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "The word to genuflect means",
+        "answer": "",
+        "explanation": " সাধারণত সম্মান প্রদর্শন এর জন্য হাটু বাকা করে বসা",
+        "options": [
+            "To be geneuine",
+            "To reflect",
+            "To bend the knee",
+            "To be flexible"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Fill in the blank: She went to New Market —",
+        "answer": "",
+        "explanation": " On foot ব্যাবহার করে ‘পায়ে হেটে’ বোঝানো হয়।",
+        "options": [
+            "on foot",
+            "on feet",
+            "by foot",
+            "by walking"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Identify the word which is spelt incorrectly:",
+        "answer": "",
+        "explanation": ": সঠিক বানান হবে Occasion",
+        "options": [
+            "fluctuation",
+            "remission",
+            "ocassion",
+            "decision"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Change the voice: Nobody trusts a traitor.",
+        "answer": "",
+        "explanation": " সঠিক উত্তর হবে A traitor is not trusted by anyone",
+        "options": [
+            "a traitor is trusted",
+            "a traitor should not be trusted",
+            "Everybody hates a traitor",
+            "A traitor is not trusted by anybody."
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Choose the right form of verb: It is high time we (act) on the matter.",
+        "answer": "",
+        "explanation": "It is high time’ এর পরে verb এর past form বসে",
+        "options": [
+            "Are acting",
+            "acted",
+            "have acted",
+            "could act"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "What is the noun form of the word laugh?",
+        "answer": "",
+        "explanation": " Laugh verb টির noun form laughter বা হাসি",
+        "options": [
+            "laughing",
+            "laughable",
+            "laughter",
+            "laughingly"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "What kind of play is Julius Ceasar”?",
+        "answer": "",
+        "explanation": " Julius Censor, William Shakespeare এর লেখা একটি ঐতিহাসিক নাটক",
+        "options": [
+            "Romantic",
+            "Anti-romantic",
+            "comedy",
+            "historical"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Do you have any money—-you?",
+        "answer": "",
+        "explanation": "Having money on one’ বলতে সাথে টাকা থাকাকে বোঝায়।",
+        "options": [
+            "To",
+            "over",
+            "in",
+            "on"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "What is the antonym for the word deformation?",
+        "answer": "",
+        "explanation": "Deformation বলতে কোনো কিছুকে আলাদা বা বিকৃত করে ফেলাকে বোঝায়। তাই এটার Antonym wholeness",
+        "options": [
+            "Distortion",
+            "Contortion",
+            "Wholeness",
+            "Disfigurement"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Words inscribed on a tomb is an-",
+        "answer": "",
+        "explanation": " কবরের পাথরফলকে খোদাই করা লেখাগুলো Epitaph",
+        "options": [
+            "eptome",
+            "epithet",
+            "episode",
+            "epitaph"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "The phrase dog days means-",
+        "answer": "",
+        "explanation": " Dog days অনেক গরম আবহাওয়া বোঝায়",
+        "options": [
+            "Hot weather",
+            "Cold shower",
+            "Rain-soaked streets",
+            "ice storm"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "—-was both a poet and a painter.",
+        "answer": "",
+        "explanation": " William Blake একজন কবি এবং চিত্রশিল্পী",
+        "options": [
+            "John Keats",
+            "Spencer",
+            "William Blake",
+            "John Donne"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "Identify the correct sentence:",
+        "answer": "",
+        "explanation": "Burst into’ ব্যাবহার করে কান্নায় ভেঙে পড়া বোঝায়",
+        "options": [
+            "The girl burst out tears",
+            "The girl burst into tears",
+            "The girl burst with tears",
+            "The girl burted out tears"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "প্রাকৃতিক গ্যাসের প্রধান উপাদান হলো –",
+        "answer": "",
+        "explanation": " প্রাকৃতিক গ্যাসের প্রধান উপাদান হলো – মিথেন",
+        "options": [
+            "হাইড্রোজেন",
+            "নাইট্রোজেন",
+            "মিথেন",
+            "ইথেন"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "O এর ভরসংখ্যা ১৭ হলে, আইসোটোপের নিউট্রন সংখ্যা কত?",
+        "answer": "",
+        "explanation": " ভরসংখ্যা = প্রোটন সংখ্যা + নিউট্রন সংখ্যা",
+        "options": [
+            "৮",
+            "১৭",
+            "৯",
+            "২৫"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "প্রোটিন তৈরি হয় –",
+        "answer": "",
+        "explanation": "প্রোটিন তৈরি হয় – অ্যামিনো এসিড দিয়ে",
+        "options": [
+            "ফ্যাটি এসিড দিয়ে",
+            "সাইট্রিক এসিড দিয়ে",
+            "অ্যামিনো এসিড দিয়ে",
+            "অক্সালিক এসিড দিয়ে"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "সালোকসংশ্লেষণে সূর্যের আলোর রাসায়নিক শক্তিতে পরিণত করার কর্মদক্ষতা হলো –",
+        "answer": "",
+        "explanation": " সালোকসংশ্লেষণে সূর্যের আলোর রাসায়নিক শক্তিতে পরিণত করার কর্মদক্ষতা হলো – ৩-৬%",
+        "options": [
+            "০%",
+            "১০-১৫%",
+            "৩-৬%",
+            "১০০%"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "জারণ প্রক্রিয়া সম্পন্ন হয় –",
+        "answer": "",
+        "explanation": " জারণ প্রক্রিয়া সম্পন্ন হয় – অ্যানোডে",
+        "options": [
+            "অ্যানোডে",
+            "ক্যাথোডে",
+            "অ্যানোড ও ক্যাথোড উভয়টিতে",
+            "বর্ণিত কোনটিতেই নয়"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "পানির অণু একটি –",
+        "answer": "",
+        "explanation": "পানির অণু একটি – ডায়াচুম্বক",
+        "options": [
+            "প্যারাচুম্বক",
+            "ডায়াচুম্বক",
+            "ফেরোচুম্বক",
+            "অ্যান্টিফেরোচুম্বক"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "একটি আদর্শ তড়িৎ উৎসের অভ্যন্তরীণ রোধ কত?",
+        "answer": "",
+        "explanation": "একটি আদর্শ তড়িৎ উৎসের অভ্যন্তরীণ রোধ শূন্য",
+        "options": [
+            "শূন্য",
+            "অসীম",
+            "অতিক্ষুদ্র",
+            "যে কোনো মান"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "কোভিড-১৯ যে ধরণের ভাইরাস-",
+        "answer": "",
+        "explanation": " কোভিড-১৯ mRNA ভাইরাস",
+        "options": [
+            "DNA",
+            "DNA + RNA",
+            "mRNA",
+            "RNA"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "হৃদযন্ত্রের সংকোচন হওয়াকে বলা হয় –",
+        "answer": "",
+        "explanation": " হৃদযন্ত্রের সংকোচন হওয়াকে বলা হয় – সিস্টল",
+        "options": [
+            "ডায়াস্টল",
+            "সিস্টল",
+            "ডায়াসিস্টল",
+            "কোনটিই নয়"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিম্নের কোন রোগটি DNA ভাইরাসঘটিত?",
+        "answer": "",
+        "explanation": "স্মলপক্স রোগটি DNA ভাইরাসঘটিত",
+        "options": [
+            "ডেঙ্গুজ্বর",
+            "স্মলপক্স",
+            "কোভিড-১৯",
+            "পোলিও"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "ট্রপিক্যাল সাইক্লোন সৃষ্টির জন্য সাগরপৃষ্ঠের ন্যূনতম তাপমাত্রা কত হওয়া প্রয়োজন?",
+        "answer": "",
+        "explanation": " ট্রপিক্যাল সাইক্লোন সৃষ্টির জন্য সাগরপৃষ্ঠের ন্যূনতম তাপমাত্রা ২৬.৫° সে. হওয়া প্রয়োজন",
+        "options": [
+            "২৬.৫° সে.",
+            "৩৫° সে.",
+            "৩৭.৫° সে.",
+            "৪০.৫° সে."
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "বাস্তব সংখ্যায় (((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "1",
+            "3",
+            "x",
+            "−"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "একদল গরু প্রতিবার সমান সংখ্যায় ভাগ হয়ে তিন পথে গমন করে, সাত ঘাটে পানি পান করে, নয়টি বৃক্ষের নিচে ঘুমায় এবং বারো জন গোয়ালা সমান সংখ্যক গরুর দুধ দোয়ায়; তাহলে গরুর সংখ্যা কত?",
+        "answer": "",
+        "explanation": " “নির্ণেয় গরুর সংখ্যা 3, 7, 9 এবং 12 এর ল.সা.গু”",
+        "options": [
+            "522",
+            "252",
+            "225",
+            "155"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "২০% যৌগিক মুনাফায় মূলধন ১০০০০ টাকা ২ বছরের জন্য বিনিয়োগ করা হলো। যদি যৌগিক মুনাফা অর্ধ বছর হিসেবে ধরা হয়, তাহলে চক্রবৃদ্ধি মূলধন কত?",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "(((",
+            "১",
+            "২",
+            "৪"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "(((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "x",
+            "=",
+            "4",
+            "+"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "একটি নৌকা পানির লেভেলে বাঁধা দড়ি দ্বারা একটি ডকের দিকে টানা হয়। নৌকাটি যখন ডক থেকে ১২ ফুট দূরে থাকে, তখন নৌকা থেকে ডক পর্যন্ত দড়ির দৈর্ঘ্য পানির উপর ডকের উচ্চতার দ্বিগুণের চেয়ে ৩ ফুট লম্বা হয়। তাহলে ডকের উচ্চতা কত?",
+        "answer": "",
+        "explanation": "“",
+        "options": [
+            "৯ ফুট",
+            "৮ ফুট",
+            "৫ ফুট",
+            "৪ ফুট"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "(((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "5",
+            "x",
+            "−",
+            "x"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "(((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "4",
+            "x",
+            "+",
+            "4"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "(((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "2",
+            "log",
+            "⁡",
+            "2"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "(((",
+        "answer": "",
+        "explanation": "[katex])))”",
+        "options": [
+            "x",
+            "−",
+            "2",
+            "x"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "(((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "1",
+            "4",
+            "−",
+            "1"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "একটি কোণের মান তার সম্পূরক কোণের মানের অর্ধেকের সমান। কোণটির মান কত?",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "(((",
+            "৩০",
+            "°",
+            " ৩০\\degree "
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "O কেন্দ্র বিশিষ্ট বৃত্তে x কোণের মান কত?",
+            "(((",
+            "54",
+            "°"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "A = ( (((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "x",
+            "∈",
+            " x \\in ",
+            "x"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "একটি অনুষ্ঠানে কিছু লোক উপস্থিত ছিল। তারা কেবল একজন মাত্র একজনের সাথে একবার করমর্দন করতে পারবে। যদি করমর্দনের সংখ্যা ৩০০ হয়, তাহলে ঐ অনুষ্ঠানে কতজন লোক ছিল?",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "২৪",
+            "২৫",
+            "৩০",
+            "৬০"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "A এবং B দুটি ঘটনা যেন, P(A) = (((",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "1",
+            "2",
+            " \frac {1} {2} ",
+            "2"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "ঙ, ঞ, ণ, (((",
+        "answer": "",
+        "explanation": "সঠিক উত্তর: ন “",
+        "options": [
+            " ",
+            "…",
+            " \\space \\mathellipsis ",
+            " "
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের শব্দগুলোর মধ্যে ৩টি সমগোত্রীয়। কোন শব্দটি আলাদা?",
+        "answer": "",
+        "explanation": " ০৩টি সমগোত্রীয় শব্দসমূহের থেকে Peculiar শব্দটি আলাদা। কারণ, Conventional, Conservative, Traditional এই শব্দ সমূহ “রক্ষণশীলতা”-এর প্রতিশব্দ বা সমার্থক শব্দ। কিন্তু, Peculiar শব্দটির অর্থ অদ্ভুত। তাই, এই প্রশ্নটির সঠিক উত্তর হচ্ছে: “Peculiar”",
+        "options": [
+            "Conventional",
+            "Peculiar",
+            "Conservative",
+            "Traditional"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "DC DE FE ?? HG HI সিরিজের প্রশ্নবোধক চিহ্নের স্থানে কোন বিকল্পটি বসবে?",
+        "answer": "",
+        "explanation": "))) বিকল্পটি বসবে।”",
+        "options": [
+            "DE",
+            "ED",
+            "FG",
+            "GF"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "প্রতিযোগিতায় সবসময় কী থাকে?",
+        "answer": "",
+        "explanation": "প্রতিযোগিতা’য় সবসময় প্রতিযোগি বা অংশগ্রহণকারী বা Participant থাকবে। কেননা, প্রতিযোগিতায় প্রতিযোগি বা অংশগ্রহণকারী বা Participant না থাকলে প্রতিযোগিতা হবে না। তাই, সঠিক উত্তর: participant",
+        "options": [
+            "topic",
+            "examination",
+            "party",
+            "participant"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "A B-এর চেয়ে দ্বিগুণ কাজ করতে পারে; তারা দুজন একত্রে একটি কাজ ১৪ দিনে শেষ করতে পারে। A একা কাজটি কতদিনে করতে পারবে?",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "১২ দিনে",
+            "২৪ দিনে",
+            "২১ দিনে",
+            "১৫ দিনে"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "DRIVE is to LICENCE as BREATHE is to __. এই বক্তব্যের শূন্যস্থানে কোন বিকল্পটি বসবে?",
+        "answer": "",
+        "explanation": " “ড্রাইভিং করার জন্য লাইসেন্সের প্রয়োজন। ঠিক একইভাবে BREATHE বা শ্বাস গ্রহণের জন্য OXYGEN এর প্রয়োজন। কেননা, ATMOSPHERE (বায়ুমন্ডল), WINDPIPE (শ্বাস বা বায়ুনালী) থেকে INHALE (নিঃশ্বাস) নেওয়ার জন্য OXYGEN (অক্সিজেন) অত্যাবশ্যক। সঠিক উত্তর: OXYGEN”",
+        "options": [
+            "OXYGEN",
+            "ATMOSPHERE",
+            "WINDPIPE",
+            "INHALE"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "একটি প্রতিষ্ঠানের ৪০% কর্মচারী আন্ডারগ্রাজুয়েট, অবশিষ্ট কর্মচারীদের ৫০% গ্রাজুয়েট এবং অবশিষ্ট ১৮০ জন পোস্টগ্রাজুয়েট। প্রতিষ্ঠানটির কতজন কর্মচারী গ্রাজুয়েট?",
+        "answer": "",
+        "explanation": ")))”",
+        "options": [
+            "১৮০",
+            "২৪০",
+            "৩০০",
+            "৩৬০"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    },
+    {
+        "question": "নিচের ক, খ, গ ও ঘ বিকল্প নকশা ৪টির মধ্যে কোনটি প্রশ্নবোধক চিহ্নের স্থানে বসবে?",
+        "answer": "",
+        "explanation": "124. যদি ROSE কে লেখা হয় 6821, CHAIR কে লেখা হয় 73456 এবং PREACH কে লেখা হয় 961473, তাহলে SEARCH-এর কোড কত?",
+        "options": [
+            "Explanation: ",
+            "“প্রথম নকশাটি একটি V রয়েছে, দ্বিতীয় নকশাটিতে একটি W রয়েছে। এখানে,, তৃতীয় নকশাটিতে ১ম নকশাটির V উল্টে উল্টো হয়ে গিয়েছে। এই যুক্তিতে দ্বিতীয় নকশাটির W উল্টে গিয়ে M হবে। (((",
+            " \\[3px] ",
+            ")))"
+        ],
+        "aditional_info": "43th_BCS_Preli_Question_Bank"
+    }
+]
